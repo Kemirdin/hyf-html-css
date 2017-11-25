@@ -1,0 +1,104 @@
+body {
+
+       font-family: monospace;
+       background-image:            url("https://cdna.artstation.com/p/assets/images/images/002/464/722/large/chris-lyons-sci-new2.jpg?1462047708");
+       margin: 0 auto;
+   }
+
+
+header,footer {
+      background-color: rgba(119, 165,           239, 0.1);
+      text-align: center;
+      color:#3cb371;
+      font-family: "Times New Roman",               Times, serif;
+      font-size: 200%;
+		  text-transform: none;
+			border-bottom: 3px solid #3cb371;
+			margin-top: 5px;
+      padding: 2px;
+          
+		}
+.navright {
+       background-color: rgba(119, 165,            239, 0.2);
+       float:right;
+       display:block;
+       width:80px;
+       text-align:center;
+       margin-top:0.2px;
+        }
+.navright:hover {
+  border-top: 2px solid #418da5;
+  border-bottom: 2px solid #418da5;
+  padding: 5px;
+  background-color: #555;
+    
+       }
+
+ #search-text {
+    width: 20%;
+    border-radius: 4px;
+    background-color: rgba(119, 165,            239, 0.2);
+    color:#3cb371;
+    margin-top:10px;
+    }
+ #search-button {
+    margin-left: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    font-family: Georgia;
+    color:#3cb371;
+   
+    }
+ 
+ p {
+     color:MediumSeaGreen;
+     background: rgba(244, 245, 247,             0.1);
+     border-radius: 10px;
+     margin: 3%;
+     padding: 2%;
+     font-size: 150%;
+     font-family: cursive;
+  }
+
+
+
+
+h2 { 
+     color:MediumSeaGreen;
+     font-family: Arial, Helvetica, sans-       serif;
+     font-size: 200%;
+
+  }
+
+
+  
+
+li {
+     color: MediumSeaGreen;
+     font-size: 150%;
+     font-weight: bold;
+     border-style: outset;
+     display: block;
+     margin: 1%;
+     padding: 1%;
+  }
+
+
+a {
+    color: MediumSeaGreen;
+    text-decoration: none;
+    transition: color .7s;
+    padding:10px
+  
+}
+ .Nv :hover {
+  
+  background-color: #f1f1f1;
+    
+       }
+
+
+
+
+
