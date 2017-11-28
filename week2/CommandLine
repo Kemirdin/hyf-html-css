@@ -1,0 +1,10 @@
+CommandLine :
+For homework I have been used these commands line
+Task 1 :$ mkdir homeworkCLI then $ cd ~/Desktop/homeworkCLI $ Touch blank.txt
+Task 2: $ vim greetings.txt then on vim page tiped 5 times " Hello!"
+and $ cp greetings.txt 1.txt ,$ cp greetings.txt 2.txt ,$ cp greetings.txt 3.txt 
+$ cp greetings.txt 4.txt  and $ cp greetings.txt 5.txt 
+Task 3: $ echo "cat">pets.txt ,$ echo "dog">>pets.txt ,$ echo "hamster">>pets.txt 
+Task 4: $ echo "cat">commands.txt,$ echo "ls">>commands.txt,$ echo "pwd">>commands.txt.
+Task 5: $ (cat pets.txt commands.txt)| sort | uniq >lovelyCommands.txt
+done .
