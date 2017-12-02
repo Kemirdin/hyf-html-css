@@ -174,7 +174,7 @@ img
 
 .grid-item 
     {
-      border-radius: 8px;
+      border-radius: 20px;
       width: 22%;
       display: grid;
    
@@ -264,7 +264,7 @@ img
     overflow: hidden;
     width:30%;
     border-style: solid;
-	border-radius: 8px;
+	border-radius: 20px;
 	padding:8px; 
 	margin: 3% 0% 0.1% 0.1%;
     float: left;
@@ -364,7 +364,7 @@ img
 	overflow: hidden;
 	border-style: solid;
 	border-width: 0.5px;
-	border-radius: 8px;
+	border-radius: 20px;
 	padding:5px; 
 	margin: 3% 0% 0.1% 0.1%;
 	   
