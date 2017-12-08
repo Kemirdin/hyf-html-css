@@ -13,6 +13,6 @@ CSS Media Queries for Desktop, Tablet, Mobile.
 
 https://kemirdin.github.io/hyf-html-css/week2/index.html
 
-Homework week3:
+Homework week3: Assignment was to remake an existing responsive website,I have just use existing website' bootstrap then made my  beautiful website.
 
 ........
